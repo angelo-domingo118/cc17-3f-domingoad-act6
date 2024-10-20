@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="primary">#4CAF50</color>
+    <color name="primary_variant">#388E3C</color>
+    <color name="secondary">#81C784</color>
+    <color name="secondary_variant">#66BB6A</color>
+    <color name="background">#F1F8E9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_background">#000000</color>
+    <color name="on_surface">#000000</color>
+    <color name="card_background">#E8F5E9</color>
+
+    <!-- Dark theme colors -->
+    <color name="primary_dark">#1B5E20</color>
+    <color name="primary_variant_dark">#0A3D0A</color>
+    <color name="secondary_dark">#2E7D32</color>
+    <color name="secondary_variant_dark">#1B5E20</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="on_primary_dark">#FFFFFF</color>
+    <color name="on_secondary_dark">#FFFFFF</color>
+    <color name="on_background_dark">#FFFFFF</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="card_background_dark">#2C2C2C</color>
+
+    <color name="completed_tip">#4CAF50</color>
+    <color name="uncompleted_tip">#BDBDBD</color>
+    <color name="button_enabled">#4CAF50</color>
+    <color name="button_disabled">#BDBDBD</color>
+
+    <!-- Add these color definitions -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Updated progress bar color -->
+    <color name="progress_bar_color">#81C784</color>
+
+    <!-- Add this line to your existing colors.xml file -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
